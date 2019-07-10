@@ -2,6 +2,11 @@ function sleep(d) {
   return new Promise((resolve) => setTimeout(resolve, d))
 }
 
+async function loadJsFirst() {
+
+
+}
+
 async function loadJs() {
   let js1 = document.createElement('script')
   js1.setAttribute('src', 'static/script/jquery.min.js')
@@ -12,8 +17,8 @@ async function loadJs() {
   let js2 = document.createElement('script')
   js2.setAttribute('src', 'static/script/common.js')
   document.head.appendChild(js2)
-
   await sleep(50);
+
 
   let js4 = document.createElement('script')
   js4.setAttribute('src', 'static/script/jquery.flexslider-min.js')
@@ -35,10 +40,29 @@ async function loadJs() {
 
 }
 
+async function loadHelpJs(){
+  let js1 = document.createElement('script')
+  js1.setAttribute('src', 'static/script/jquery.min.js')
+  document.head.appendChild(js1)
+
+  await sleep(500);
+
+  let js2 = document.createElement('script')
+  js2.setAttribute('src', 'static/script/common.js')
+  document.head.appendChild(js2)
+  await sleep(500);
+
+  let js5 = document.createElement('script')
+  js5.setAttribute('src', 'static/script/custom2.js')
+  document.head.appendChild(js5)
+}
+
 
 
 
 export default {
+  loadJsFirst,
+  loadHelpJs,
   loadJs,
   sleep
 }
