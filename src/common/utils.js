@@ -57,10 +57,31 @@ async function loadHelpJs(){
   document.head.appendChild(js5)
 }
 
+async function loadMainJs() {
 
+  let js1 = document.createElement('script')
+  js1.setAttribute('src', 'static/js/jquery.js')
+  document.head.appendChild(js1);
+
+  await sleep(500);
+
+  let js2 = document.createElement('script')
+  js2.setAttribute('src', 'static/js/plugins.js')
+  document.head.appendChild(js2);
+
+  await sleep(500);
+
+  let js3 = document.createElement('script')
+  js3.setAttribute('src', 'static/js/functions.js')
+  document.head.appendChild(js3);
+
+  await sleep(500);
+
+}
 
 
 export default {
+  loadMainJs,
   loadJsFirst,
   loadHelpJs,
   loadJs,

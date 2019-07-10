@@ -446,7 +446,8 @@ export default {
 </script>
 
 <style>
-
+  @import "http://mycanvas.oss-cn-shanghai.aliyuncs.com/p2p/css/common.css";
+  @import "http://mycanvas.oss-cn-shanghai.aliyuncs.com/p2p/css/index.css";
   #scrollDiv {
     width: 400px;
     height: 30px;

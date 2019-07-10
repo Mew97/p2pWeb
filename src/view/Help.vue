@@ -542,5 +542,7 @@
 </script>
 
 <style>
+  @import "http://mycanvas.oss-cn-shanghai.aliyuncs.com/p2p/css/common.css";
+  @import "http://mycanvas.oss-cn-shanghai.aliyuncs.com/p2p/css/help.css";
 
 </style>

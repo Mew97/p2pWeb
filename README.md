@@ -1,9 +1,7 @@
-# p2p14
-# p2p12
+# p2p
 
 > A Vue.js project
 
-## Build Setup
 ## Build Setup
 
 ``` bash

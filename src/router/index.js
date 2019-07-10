@@ -5,9 +5,12 @@ import Main from '@/view/main'
 
 import Help from '@/view/Help'
 
+import Home from '@/view/Home'
+
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -18,6 +21,11 @@ export default new Router({
       path: '/help',
       name: 'Help',
       component: Help
+    },
+    {
+      path: '/test',
+      name: 'Home',
+      component: Home
     }
   ]
 })
