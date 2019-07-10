@@ -8,7 +8,6 @@ import utils from '@/common/utils'
 
 Vue.prototype.utils = utils;
 
-
 window.jQuery = jQuery;
 window.$ = jQuery;
 
