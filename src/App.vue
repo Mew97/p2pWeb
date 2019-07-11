@@ -8,7 +8,6 @@
 export default {
   name: 'App',
   mounted() {
-    this.utils.loadJsFirst();
   }
 }
 </script>
