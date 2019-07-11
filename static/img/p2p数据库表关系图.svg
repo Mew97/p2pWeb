@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="198mm" xmlns="http://www.w3.org/2000/svg" height="310mm" version="1.1" viewBox="0 0 751 1173" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="140,187 140,72 302,72" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="302,72 289,75 289,69" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="381,171 381,142" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="381,142 384,155 378,155" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="615,189 615,72 460,72" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="460,72 474,69 474,75" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="508,729 446,729" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="446,729 460,726 460,732" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="380,612 380,638" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="380,638 377,624 383,624" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="546,459 498,459 498,713 446,713" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="446,713 460,710 460,716" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="215,549 215,713 314,713" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="314,713 300,716 300,710" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="207,729 314,729" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="314,729 300,732 300,726" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="320,816 320,789" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="320,789 323,802 317,802" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="328,894 443,894" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="443,894 429,897 429,891" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="140,398 140,348" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="140,348 143,362 137,362" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="615,317 615,408 474,408" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="474,408 488,405 488,411" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="382,365 382,395" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="382,395 379,381 385,381" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <polyline fill="none" points="234,267 294,267 294,395" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="294,395 291,381 297,381" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <rect x="538" y="189" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="538" y="189" fill="url(#Gradient1)" width="153" height="128" stroke="#0080c0" stroke-width="1"/>
+   <text x="614" y="199" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">with_the_review(满标复审)</text>
+   <line x1="538" x2="691" y1="203" y2="203" stroke="#0080c0" stroke-width="1"/>
+   <text x="543" y="213" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="543" y="224" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="543" y="235" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">credit_score</text>
+   <text x="543" y="246" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_title</text>
+   <text x="543" y="257" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_money</text>
+   <text x="543" y="268" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">Interest_rate</text>
+   <text x="543" y="279" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bids</text>
+   <text x="543" y="290" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_deadline</text>
+   <text x="543" y="301" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">state</text>
+   <text x="543" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operation</text>
+   <text x="626" y="213" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="626" y="224" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="626" y="235" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="626" y="246" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="626" y="257" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="626" y="268" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">decimal</text>
+   <text x="626" y="279" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="626" y="290" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="626" y="301" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="626" y="312" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <rect x="314" y="638" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="314" y="638" fill="url(#Gradient2)" width="132" height="151" stroke="#0080c0" stroke-width="1"/>
+   <text x="380" y="648" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">users_list(用户列表)</text>
+   <line x1="314" x2="446" y1="653" y2="653" stroke="#0080c0" stroke-width="1"/>
+   <text x="318" y="663" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="318" y="674" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">username</text>
+   <text x="318" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">password</text>
+   <text x="318" y="696" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">email</text>
+   <text x="318" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">qq</text>
+   <text x="318" y="718" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">tel</text>
+   <text x="318" y="729" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">add_time</text>
+   <text x="318" y="740" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_type</text>
+   <text x="318" y="751" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">status</text>
+   <text x="318" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operate</text>
+   <text x="318" y="773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">information</text>
+   <text x="318" y="784" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name_a</text>
+   <text x="381" y="663" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="381" y="674" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="381" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="381" y="696" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="381" y="707" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="381" y="718" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="381" y="729" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="381" y="740" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="381" y="751" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="381" y="762" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="381" y="773" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="381" y="784" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <rect x="270" y="1009" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="270" y="1009" fill="url(#Gradient3)" width="158" height="85" stroke="#0080c0" stroke-width="1"/>
+   <text x="349" y="1019" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">sysInfo(系统信息)</text>
+   <line x1="270" x2="428" y1="1024" y2="1024" stroke="#0080c0" stroke-width="1"/>
+   <text x="275" y="1034" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">sys_parameter</text>
+   <text x="275" y="1045" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">img_watermaking</text>
+   <text x="275" y="1056" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">attach</text>
+   <text x="275" y="1067" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_attribute</text>
+   <text x="275" y="1078" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">email</text>
+   <text x="275" y="1089" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">note</text>
+   <text x="358" y="1034" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="358" y="1045" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="358" y="1056" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="358" y="1067" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="358" y="1078" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="358" y="1089" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <rect x="303" y="171" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="303" y="171" fill="url(#Gradient4)" width="153" height="194" stroke="#0080c0" stroke-width="1"/>
+   <text x="379" y="181" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">recharge_record(充值记录)</text>
+   <line x1="303" x2="456" y1="186" y2="186" stroke="#0080c0" stroke-width="1"/>
+   <text x="307" y="196" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="307" y="207" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">serial_number</text>
+   <text x="307" y="218" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="307" y="229" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name</text>
+   <text x="307" y="240" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">type</text>
+   <text x="307" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bank</text>
+   <text x="307" y="262" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">recharge_amount</text>
+   <text x="307" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">cost</text>
+   <text x="307" y="284" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">arrival_amount</text>
+   <text x="307" y="295" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">reward</text>
+   <text x="307" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">Prepaid_time</text>
+   <text x="307" y="317" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">status</text>
+   <text x="307" y="328" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bank_returend</text>
+   <text x="307" y="339" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operation</text>
+   <text x="307" y="350" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext1</text>
+   <text x="307" y="361" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="390" y="196" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="207" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="218" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="229" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="240" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="251" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="262" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="273" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="284" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="295" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="317" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="328" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="339" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="390" y="350" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="390" y="361" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <rect x="2" y="630" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="630" fill="url(#Gradient5)" width="205" height="129" stroke="#0080c0" stroke-width="1"/>
+   <text x="104" y="640" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">real_name_authentication(用户认证信息)</text>
+   <line x1="2" x2="207" y1="645" y2="645" stroke="#0080c0" stroke-width="1"/>
+   <text x="7" y="655" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="7" y="666" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="7" y="677" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name</text>
+   <text x="7" y="688" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">sex</text>
+   <text x="7" y="699" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">nation</text>
+   <text x="7" y="710" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">birth_date</text>
+   <text x="7" y="721" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">certificate_type</text>
+   <text x="7" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">certificate_number</text>
+   <text x="7" y="743" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">`native</text>
+   <text x="7" y="754" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">idcard_photo</text>
+   <text x="105" y="655" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="105" y="666" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="677" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="688" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="699" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="710" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="721" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="732" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="105" y="743" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">place` varchar(20)</text>
+   <text x="105" y="754" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <rect x="508" y="552" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="508" y="552" fill="url(#Gradient6)" width="241" height="261" stroke="#0080c0" stroke-width="1"/>
+   <text x="628" y="562" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">real_estate_information(用户详情)</text>
+   <line x1="508" x2="749" y1="567" y2="567" stroke="#0080c0" stroke-width="1"/>
+   <text x="513" y="577" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="513" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">account</text>
+   <text x="513" y="599" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">nickname</text>
+   <text x="513" y="610" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name</text>
+   <text x="513" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">sex</text>
+   <text x="513" y="632" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">native_place</text>
+   <text x="513" y="643" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">marital_status</text>
+   <text x="513" y="654" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">children</text>
+   <text x="513" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">education_background</text>
+   <text x="513" y="676" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">monthly_income</text>
+   <text x="513" y="687" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">social_security</text>
+   <text x="513" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">social_security_computer_number</text>
+   <text x="513" y="709" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">housing_conditions</text>
+   <text x="513" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">whether_car</text>
+   <text x="513" y="731" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">overdue_record</text>
+   <text x="513" y="742" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">house_information</text>
+   <text x="513" y="753" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">unit_information</text>
+   <text x="513" y="764" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">private_information</text>
+   <text x="513" y="775" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">financial_condition</text>
+   <text x="513" y="786" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">tel</text>
+   <text x="513" y="797" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext1</text>
+   <text x="513" y="808" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="676" y="577" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="676" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(30)</text>
+   <text x="676" y="599" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(30)</text>
+   <text x="676" y="610" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(30)</text>
+   <text x="676" y="621" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="632" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="676" y="643" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="654" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="665" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="676" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="687" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="698" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="676" y="709" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="720" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="731" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="676" y="742" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="676" y="753" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="676" y="764" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="676" y="775" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="676" y="786" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="676" y="797" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="676" y="808" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <rect x="546" y="416" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="546" y="416" fill="url(#Gradient7)" width="138" height="85" stroke="#0080c0" stroke-width="1"/>
+   <text x="615" y="426" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">point_management(积分列表)</text>
+   <line x1="546" x2="684" y1="431" y2="431" stroke="#0080c0" stroke-width="1"/>
+   <text x="551" y="441" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="551" y="452" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">userid</text>
+   <text x="551" y="463" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="551" y="474" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">total_point</text>
+   <text x="551" y="485" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">edd_time</text>
+   <text x="551" y="496" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operate</text>
+   <text x="614" y="441" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="614" y="452" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="614" y="463" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="614" y="474" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="614" y="485" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="614" y="496" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <rect x="69" y="1013" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="69" y="1013" fill="url(#Gradient8)" width="122" height="74" stroke="#0080c0" stroke-width="1"/>
+   <text x="130" y="1023" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">notice(公告)</text>
+   <line x1="69" x2="191" y1="1028" y2="1028" stroke="#0080c0" stroke-width="1"/>
+   <text x="73" y="1038" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="73" y="1049" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">title</text>
+   <text x="73" y="1060" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">status</text>
+   <text x="73" y="1071" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">content</text>
+   <text x="73" y="1082" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="116" y="1038" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="116" y="1049" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="116" y="1060" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="116" y="1071" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(5000)</text>
+   <text x="116" y="1082" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <rect x="443" y="835" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="443" y="835" fill="url(#Gradient9)" width="163" height="118" stroke="#0080c0" stroke-width="1"/>
+   <text x="524" y="845" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">failure_of_bid(流标)</text>
+   <line x1="443" x2="606" y1="850" y2="850" stroke="#0080c0" stroke-width="1"/>
+   <text x="447" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="447" y="871" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">name</text>
+   <text x="447" y="882" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_title</text>
+   <text x="447" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_deadline</text>
+   <text x="447" y="904" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_money</text>
+   <text x="447" y="915" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">investment_amount</text>
+   <text x="447" y="926" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">start_time</text>
+   <text x="447" y="937" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">end_time</text>
+   <text x="447" y="948" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">state</text>
+   <text x="540" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="540" y="871" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="540" y="882" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="540" y="893" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="540" y="904" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="540" y="915" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="540" y="926" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="540" y="937" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="540" y="948" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <rect x="290" y="395" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="290" y="395" fill="url(#Gradient10)" width="184" height="217" stroke="#0080c0" stroke-width="1"/>
+   <text x="382" y="405" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">cash_reconciliatio(资金对账)</text>
+   <line x1="290" x2="474" y1="410" y2="410" stroke="#0080c0" stroke-width="1"/>
+   <text x="295" y="420" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="295" y="431" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_id</text>
+   <text x="295" y="442" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="295" y="453" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">total_funds</text>
+   <text x="295" y="464" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">available_funds</text>
+   <text x="295" y="475" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">frozen_funds</text>
+   <text x="295" y="486" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">pending_funds</text>
+   <text x="295" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">prepaid_funds</text>
+   <text x="295" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">withdrawal_funds</text>
+   <text x="295" y="519" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bidding</text>
+   <text x="295" y="530" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">loan_incentive_funds</text>
+   <text x="295" y="541" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">system_deduction_fees</text>
+   <text x="295" y="552" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">promotion_incentives</text>
+   <text x="295" y="563" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">vip_deduction_fees</text>
+   <text x="295" y="574" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">repaid_principal</text>
+   <text x="295" y="585" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">repaid_interest</text>
+   <text x="295" y="596" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext1</text>
+   <text x="295" y="607" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="408" y="420" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="431" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="408" y="442" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="408" y="453" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="464" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="475" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="486" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="508" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="519" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="530" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="541" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="552" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="563" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="574" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="585" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="596" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="408" y="607" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <rect x="174" y="816" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="174" y="816" fill="url(#Gradient11)" width="154" height="151" stroke="#0080c0" stroke-width="1"/>
+   <text x="251" y="826" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">bids_pending(发表待审)</text>
+   <line x1="174" x2="328" y1="831" y2="831" stroke="#0080c0" stroke-width="1"/>
+   <text x="179" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="179" y="852" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="179" y="863" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_integral</text>
+   <text x="179" y="874" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_title</text>
+   <text x="179" y="885" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_money</text>
+   <text x="179" y="896" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">Interest_rate</text>
+   <text x="179" y="907" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">borrow_deadline</text>
+   <text x="179" y="918" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">publish_time</text>
+   <text x="179" y="929" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">type</text>
+   <text x="179" y="940" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">display_status</text>
+   <text x="179" y="951" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">state</text>
+   <text x="179" y="962" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">recommend_state</text>
+   <text x="262" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="262" y="852" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="262" y="863" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="262" y="874" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="262" y="885" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="262" y="896" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">decimal</text>
+   <text x="262" y="907" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">int</text>
+   <text x="262" y="918" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="262" y="929" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="262" y="940" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="262" y="951" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+   <text x="262" y="962" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(2)</text>
+   <rect x="552" y="998" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="552" y="998" fill="url(#Gradient12)" width="127" height="173" stroke="#0080c0" stroke-width="1"/>
+   <text x="615" y="1008" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">Administrator(管理员)</text>
+   <line x1="552" x2="679" y1="1013" y2="1013" stroke="#0080c0" stroke-width="1"/>
+   <text x="557" y="1023" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="557" y="1034" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">name</text>
+   <text x="557" y="1045" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">password</text>
+   <text x="557" y="1056" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name</text>
+   <text x="557" y="1067" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">sex</text>
+   <text x="557" y="1078" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">birth</text>
+   <text x="557" y="1089" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">type</text>
+   <text x="557" y="1100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">status</text>
+   <text x="557" y="1111" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">address</text>
+   <text x="557" y="1122" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">email</text>
+   <text x="557" y="1133" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">qq</text>
+   <text x="557" y="1144" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">phone</text>
+   <text x="557" y="1155" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext1</text>
+   <text x="557" y="1166" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="610" y="1023" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1034" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1045" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1056" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1067" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1078" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="610" y="1089" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1100" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1111" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1122" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="610" y="1133" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1144" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1155" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="610" y="1166" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <rect x="3" y="398" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="3" y="398" fill="url(#Gradient13)" width="249" height="151" stroke="#0080c0" stroke-width="1"/>
+   <text x="127" y="408" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">withdraw_deposit(提现额)</text>
+   <line x1="3" x2="252" y1="413" y2="413" stroke="#0080c0" stroke-width="1"/>
+   <text x="8" y="423" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="8" y="434" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_id</text>
+   <text x="8" y="445" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">wit_user_name</text>
+   <text x="8" y="456" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">user_name</text>
+   <text x="8" y="467" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">real_name</text>
+   <text x="8" y="478" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">Investment_guarantee_amount</text>
+   <text x="8" y="489" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">credit_line</text>
+   <text x="8" y="500" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">net_asset</text>
+   <text x="8" y="511" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">collect_interest</text>
+   <text x="8" y="522" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">Withdrawal_standard</text>
+   <text x="8" y="533" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext1</text>
+   <text x="8" y="544" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">ext2</text>
+   <text x="151" y="423" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="434" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="151" y="445" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="151" y="456" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="151" y="467" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="151" y="478" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="489" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="500" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="511" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="522" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="151" y="533" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="151" y="544" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="219" y="423" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;fk2&gt;</text>
+   <text x="219" y="434" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;fk2&gt;</text>
+   <text x="219" y="445" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">&lt;fk2&gt;</text>
+   <rect x="47" y="187" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="47" y="187" fill="url(#Gradient14)" width="187" height="161" stroke="#0080c0" stroke-width="1"/>
+   <text x="140" y="197" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">withdraw_record(提现记录)</text>
+   <line x1="47" x2="234" y1="201" y2="201" stroke="#0080c0" stroke-width="1"/>
+   <text x="51" y="211" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">id</text>
+   <text x="51" y="222" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">user_id</text>
+   <text x="51" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">user_name</text>
+   <text x="51" y="244" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">withdraw_account</text>
+   <text x="51" y="255" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">withdraw_bank</text>
+   <text x="51" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">branch</text>
+   <text x="51" y="277" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">withdraw_rental</text>
+   <text x="51" y="288" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">total_account</text>
+   <text x="51" y="299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">poundage</text>
+   <text x="51" y="310" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">red_packet</text>
+   <text x="51" y="321" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">withdraw_time</text>
+   <text x="51" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">status</text>
+   <text x="51" y="343" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operate</text>
+   <text x="139" y="211" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">bigint</text>
+   <text x="139" y="222" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">varchar(100)</text>
+   <text x="139" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">varchar(100)</text>
+   <text x="139" y="244" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="139" y="255" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="139" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="139" y="277" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="139" y="288" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="139" y="299" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="139" y="310" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="139" y="321" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">date</text>
+   <text x="139" y="332" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="139" y="343" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(100)</text>
+   <text x="207" y="211" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="207" y="222" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="207" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-decoration="underline">&lt;pk&gt;</text>
+   <rect x="302" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient15" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="302" y="2" fill="url(#Gradient15)" width="158" height="140" stroke="#0080c0" stroke-width="1"/>
+   <text x="381" y="12" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'" text-anchor="middle">fund_record(资金记录)</text>
+   <line x1="302" x2="460" y1="17" y2="17" stroke="#0080c0" stroke-width="1"/>
+   <text x="307" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">id</text>
+   <text x="307" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">username</text>
+   <text x="307" y="49" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">type</text>
+   <text x="307" y="60" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">total_amount</text>
+   <text x="307" y="71" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">operate_amount</text>
+   <text x="307" y="82" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">available_amount</text>
+   <text x="307" y="93" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">freeze_amount</text>
+   <text x="307" y="104" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">pending_amount</text>
+   <text x="307" y="115" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">other_side</text>
+   <text x="307" y="126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">time</text>
+   <text x="307" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">remarks</text>
+   <text x="395" y="27" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">bigint</text>
+   <text x="395" y="38" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="395" y="49" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="395" y="60" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="395" y="71" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="395" y="82" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="395" y="93" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="395" y="104" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">double</text>
+   <text x="395" y="115" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="395" y="126" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(20)</text>
+   <text x="395" y="137" fill="#000000" font-size="10" font-family="'Arial Unicode MS','新宋体'">varchar(50)</text>
+</svg>
